@@ -334,7 +334,7 @@ Navigation
 
 .navbar-custom ul.nav li a {
 	font-size: 13px;
-	letter-spacing: 1px;
+	
     color: #666;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -1050,7 +1050,7 @@ Elements
 .cbp-l-filters-alignLeft .cbp-filter-item {
     font: 600 12px/29px "tahoma", sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	
 }
 
 .cbp-l-grid-team-name {
@@ -1643,7 +1643,7 @@ a.scrollup i:hover {
 	color: #fff;
 	text-decoration: none;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	
 	font-weight: 400;	
 	text-shadow: 0 0 1px rgba(255,255,255,0.3);
 	font-size: 14px;
@@ -1846,7 +1846,7 @@ a.btn:focus{
 	font-size: 14px;
 	text-transform: uppercase;	
 	font-weight: bold; 
-	letter-spacing: 2px;
+	
 	padding-bottom: 10px;
 	border-bottom: 1px dotted #eee;	
 }
